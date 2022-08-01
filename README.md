@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Emilytris
-- 👀 I’m interested in aprender a programar novas linguagens.
-- 🌱 I’m currently learning a programar recentemente a linguagem de javascript e Scratch.
+- 👋 Oi, eu sou @Emilytris
+- 👀  Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo  a programar recentemente a linguagem de javascript e Scratch.
 
 
 
